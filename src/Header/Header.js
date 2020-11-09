@@ -3,28 +3,7 @@ import './Header.css'
 
 
 export default class Header extends Component {
-    // constructor(props) {
-    //     super(props)
-    //     this.state = {
-    //         navbar_links: ''
-    //     }
-    // }
-
-    // toggleNavbar = () => {
-    //     if(this.state.navbar_links === ''){
-    //         this.setState({
-    //             navbar_links: 'toggled'
-    //         })
-    //     } else {
-    //         this.setState({
-    //             navbar_links: ''
-    //         })
-    //     }
-    // }
-
-
     render() {
-        // let all_navbar_links = `navbar-links ${this.state.navbar_links}`
         return(
                 <div>
                     <h1 className='title'>Madison Brown</h1>
