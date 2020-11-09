@@ -1,0 +1,47 @@
+.projects-row{
+    display: flex;
+}
+
+.speak-ez{
+    flex: 33.33%;
+    /* padding: 1px; */
+}
+
+.hogwarts{
+    flex: 33.33%;
+    /* padding: 1px; */
+}
+
+.goat{
+    flex: 33.33%;
+    /* padding: 1px; */
+}
+
+.speak-ez-img{
+    width: 300px;
+    border: 2px solid black;
+    border-radius: 20%;
+}
+
+.goat-img{
+    width: 300px;
+    border: 2px solid black;
+    border-radius: 20%;
+}
+
+.hogwarts-img{
+    width: 300px;
+    border: 2px solid black;
+    border-radius: 20%;
+}
+
+.projects-p {
+    margin: auto;
+    width: 90%;
+    border: 1px solid black;
+    border-radius: 20px;
+    box-shadow: 0 0 3px #333;
+    background: rgb(255, 255, 255);
+    transition: all 0.3s ease;  
+    padding: 10px;
+}

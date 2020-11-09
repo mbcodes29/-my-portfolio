@@ -1,0 +1,14 @@
+p {
+    color: black;
+}
+
+.main-text {
+    /* padding-top: 40px; */
+    margin: auto;
+    width: 50%;
+    border: 1px solid black;
+    border-radius: 25px;
+    box-shadow: 0 0 3px #333;
+    background: rgb(255, 255, 255);
+    transition: all 0.3s ease;
+}
