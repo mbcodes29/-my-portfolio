@@ -2,6 +2,9 @@
 
 I'm a full stack developer and aspiring 3D artist and game designer based in Chicago, IL. 
 
+## Live Portfolio Link:
+https://mbcodes29.github.io/
+
 ## What technologies do I use?
 
 I have developed applications using JavaScript, React, Node.js, PostgreSQL, HTML5, CSS3, Express, Mocha & Chai, and more. I'm also learning Blender!
