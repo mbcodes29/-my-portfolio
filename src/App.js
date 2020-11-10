@@ -1,6 +1,5 @@
 import Header from '../src/Header/Header'
 import Main from '../src/Main/Main'
-import About from '../src/About/About'
 import Projects from '../src/Projects/Projects'
 import './App.css';
 
@@ -12,8 +11,6 @@ function App() {
       <br/>
       <Projects />
       <br/>
-      {/* <About />
-      <br/> */}
     </div>
   );
 }
