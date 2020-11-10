@@ -11,7 +11,7 @@ export default class Projects extends Component {
             <section className="projects">
                <div className="projects-row">
                <div className="speak-ez">
-                   <h2>Speak EZ</h2>
+                   <h2>Speak-EZ</h2>
                         <img src={speakez} className="speak-ez-img" alt="speak-ez screenshot"/>
                         <p className="projects-p">
                         <a href="https://speak-ez.vercel.app/" target="_blank" rel="noreferrer">'Speak-EZ'</a> is an app that utilizes spaced repetition to allow the user to learn a foreign language in a quick and efficient manner.
