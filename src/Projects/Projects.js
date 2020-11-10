@@ -25,7 +25,7 @@ export default class Projects extends Component {
                    <h2>GOAT</h2>
                         <img src={goat} className="goat-img" alt="GOAT screenshot"/>
                         <p className="projects-p">
-                        <a href="https://goat-client.vercel.app/" target="_blank" rel="noreferrer">'GOAT'</a> is a free goal tracking app that allows you to create new goals, earn points for goals completed, and redeem those points for rewards.
+                        <a href="https://goat-client.vercel.app/" target="_blank" rel="noreferrer">'GOAT'</a> is a free goal tracking app that allows the user to create new goals, earn points for goals completed, and redeem those points for rewards.
                         <br/>
                         <br/>
                         
@@ -36,7 +36,7 @@ export default class Projects extends Component {
                    <h2>Create a Hogwarts Student</h2>
                         <img src={hogwarts} className="hogwarts-img" alt="Create a Hogwarts Student screenshot"/>
                         <p className="projects-p">
-                        <a href="https://hogwarts-client.mbcodes29.vercel.app/" target="_blank" rel="noreferrer">'Create a Hogwarts Student'</a> allows the user to create their own Hogwarts student as part of the Harry Potter franchise. The user can login to their account, choose student characteristics which are stored in a database, and are then randomly sorted into a Hogwarts house.
+                        <a href="https://hogwarts-client.mbcodes29.vercel.app/" target="_blank" rel="noreferrer">'Create a Hogwarts Student'</a> allows the user to create their own Hogwarts student as part of the Harry Potter franchise. The user can log in to their account, choose student characteristics that are stored in a database, and are then randomly sorted into a Hogwarts house.
                         <br/>
                         <br/>
 

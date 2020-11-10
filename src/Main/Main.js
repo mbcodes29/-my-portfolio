@@ -8,7 +8,7 @@ export default class Main extends Component {
         return(
             <div className="main-text">
                 <p>
-                I am a software developer, an aspiring game developer and 3D artist based in Chicago, Illinois who is passionate about creating valuable and memorable user experiences.
+                I am a software developer, an aspiring game developer, and 3D artist based in Chicago, Illinois. I am passionate about creating valuable and memorable user experiences.
                 </p>
                 <br/>
                 <p>
