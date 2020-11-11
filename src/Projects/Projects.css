@@ -91,3 +91,10 @@ h2 {
         margin: auto auto 10px auto;
     }
 }
+
+@media all and (max-width: 1650px){
+    .projects-row h2 {
+     margin-left: auto;
+     margin-right: auto;
+    }
+  }
