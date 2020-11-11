@@ -11,5 +11,11 @@ p {
     box-shadow: 0 0 3px #333;
     background: rgb(255, 255, 255);
     transition: all 0.3s ease;
+    font-size: 18px;
 }
 
+@media all and (max-width: 800px){
+    .main-text{
+        margin: auto auto 10px auto;
+    }
+}

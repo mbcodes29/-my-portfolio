@@ -18,7 +18,9 @@ export default class Projects extends Component {
                         <br/>
                         <br/>
 
-                        Technologies: React, Node.js, PostgreSQL, JavaScript, Express, HTML, CSS
+                        Technologies: React, Node.js, PostgreSQL, JavaScript, Express, HTML, CSS.
+                        <br/>
+                        <a href="https://github.com/elmoctarebnou/capstone2-Madison-El-Angela" target="_blank" rel="noreferrer">Front-End repo</a>/<a href="https://github.com/elmoctarebnou/capstone2-api-Madison-El-Angela" target="_blank" rel="noreferrer">Back-End repo</a>
                         </p>
                 </div>
                 <div className="goat">
@@ -30,6 +32,8 @@ export default class Projects extends Component {
                         <br/>
                         
                         Technologies: React, Node.js, PostgreSQL, JavaScript, Express, HTML, CSS, Cypress.
+                        <br/>
+                        <a href="https://github.com/thinkful-ei-quail/goat-client" target="_blank" rel="noreferrer">Front-End repo</a>/<a href="https://github.com/thinkful-ei-quail/goat-api" target="_blank" rel="noreferrer">Back-End repo</a>
                         </p>
                 </div>
                 <div className="hogwarts">
@@ -41,6 +45,8 @@ export default class Projects extends Component {
                         <br/>
 
                         Technologies: React, Node.js, PostgreSQL, JavaScript, Express, HTML, CSS.
+                        <br/>
+                        <a href="https://github.com/mbcodes29/hogwarts-client" target="_blank" rel="noreferrer">Front-End repo</a>/<a href="https://github.com/mbcodes29/hogwarts-server" target="_blank" rel="noreferrer">Back-End repo</a>
                         </p>
                 </div>
                </div>
