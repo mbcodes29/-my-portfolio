@@ -16,6 +16,6 @@ p {
 
 @media all and (max-width: 800px){
     .main-text{
-        margin: auto auto 10px auto;
+        margin: auto;
     }
 }
